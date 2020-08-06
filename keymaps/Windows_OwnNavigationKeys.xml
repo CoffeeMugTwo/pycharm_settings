@@ -27,4 +27,7 @@
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
   <action id="InsertLiveTemplate" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
 </keymap>
