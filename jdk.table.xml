@@ -1,0 +1,386 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.8 (warmsite_prediction)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="C:\Users\z003387e\AppData\Local\Continuum\anaconda3\envs\warmsite_prediction\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/warmsite_prediction/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/warmsite_prediction/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/warmsite_prediction/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/-565763990" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/UserData/z003387e/projects/WarmsitePrediction/warm_site_prediction" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (warmsite_prediction) (2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="C:\Users\z003387e\AppData\Local\Continuum\anaconda3\envs\warmsite_prediction\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/warmsite_prediction/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/warmsite_prediction/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/warmsite_prediction/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/warmsite_prediction/Lib/site-packages/win32" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/warmsite_prediction/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/warmsite_prediction/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.1/python_stubs/-565763990" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/UserData/z003387e/projects/SHS-DI-CT-RnD-ES-BDA/WarmsitePrediction/warm_site_prediction" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (exploring_env)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.6" />
+      <homePath value="C:\Users\z003387e\AppData\Local\Continuum\anaconda3\envs\exploring_env\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/exploring_env/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/exploring_env/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/exploring_env/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/-1648449202" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/exploring_project" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (dash_proto)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.2" />
+      <homePath value="C:\Users\z003387e\AppData\Local\Continuum\anaconda3\envs\dash_proto\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/dash_proto/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/dash_proto/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/dash_proto/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.1/python_stubs/-1756842153" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (ct_mp)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.2" />
+      <homePath value="C:\Users\z003387e\AppData\Local\Continuum\anaconda3\envs\ct_mp\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/ct_mp/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/ct_mp/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/ct_mp/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.1/python_stubs/643164923" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (luigi_test)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="C:\Users\z003387e\AppData\Local\Continuum\anaconda3\envs\luigi_test\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/luigi_test/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/luigi_test/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/luigi_test/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.2/python_stubs/-1938782205" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (warmsite_prediction) (3)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="C:\Users\z003387e\AppData\Local\Continuum\anaconda3\envs\warmsite_prediction\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/warmsite_prediction/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/warmsite_prediction/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/warmsite_prediction/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/warmsite_prediction/Lib/site-packages/win32" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/warmsite_prediction/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/warmsite_prediction/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.1/python_stubs/-565763990" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="C:\Users\z003387e\AppData\Local\Continuum\anaconda3\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/win32" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.1/python_stubs/896116716" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (warmsite_prediction_py37)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.7" />
+      <homePath value="C:\Users\z003387e\AppData\Local\Continuum\anaconda3\envs\warmsite_prediction_py37\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/warmsite_prediction_py37/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/warmsite_prediction_py37/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/warmsite_prediction_py37/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/warmsite_prediction_py37/Lib/site-packages/win32" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/warmsite_prediction_py37/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/warmsite_prediction_py37/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.2/python_stubs/-2020047672" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/UserData/z003387e/projects/SHS-DI-CT-RnD-ES-BDA/WarmsitePrediction/warm_site_prediction_luigi/warmsitepredictionluigi" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (process_control)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.7" />
+      <homePath value="C:\Users\z003387e\AppData\Local\Continuum\anaconda3\envs\process_control\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/process_control/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/process_control/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/process_control/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.1/python_stubs/-1986600481" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (ct_mp_py37)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.7" />
+      <homePath value="C:\Users\z003387e\AppData\Local\Continuum\anaconda3\envs\ct_mp_py37\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/ct_mp_py37/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/ct_mp_py37/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/ct_mp_py37/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.1/python_stubs/-1029264169" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/UserData/z003387e/projects/SHS-TE-MP-PLM-PAC/python_code" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (dash_course_udemy)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.10" />
+      <homePath value="C:\Users\z003387e\AppData\Local\Continuum\anaconda3\envs\dash_course_udemy\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/dash_course_udemy/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/dash_course_udemy/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/dash_course_udemy/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/dash_course_udemy/Lib/site-packages/win32" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/dash_course_udemy/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/dash_course_udemy/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.1/python_stubs/-1873608415" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (qt_pq_py37)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.7" />
+      <homePath value="C:\Users\z003387e\AppData\Local\Continuum\anaconda3\envs\qt_pq_py37\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/qt_pq_py37/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/qt_pq_py37/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/qt_pq_py37/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/qt_pq_py37/Lib/site-packages/win32" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/qt_pq_py37/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/qt_pq_py37/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.1/python_stubs/291741251" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (mtbf_spa_data_check)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.7" />
+      <homePath value="C:\Users\z003387e\AppData\Local\Continuum\anaconda3\envs\mtbf_spa_data_check\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/mtbf_spa_data_check/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/mtbf_spa_data_check/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/mtbf_spa_data_check/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/mtbf_spa_data_check/Lib/site-packages/win32" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/mtbf_spa_data_check/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/mtbf_spa_data_check/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.1/python_stubs/-754343030" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
