@@ -931,6 +931,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*requirements*.txt">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="ru.meanmail.plugin.requirements" />
+              <option name="myPluginName" value="Requirements" />
+            </plugin>
+          </value>
+        </entry>
         <entry key=".editorconfig">
           <value>
             <plugin>
@@ -963,6 +971,14 @@
               <option name="myPluginId" value="PythonCore" />
               <option name="myPluginName" value="Python Community Edition" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="constrains.txt">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="ru.meanmail.plugin.requirements" />
+              <option name="myPluginName" value="Requirements" />
             </plugin>
           </value>
         </entry>
