@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\src\features\analysis_teaser_words.py'" />
-    <option name="defaultScopeName" value="File '...\src\features\analysis_teaser_words.py'" />
-    <option name="SEARCH_SCOPE" value="File '...\src\features\analysis_teaser_words.py'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
+    <mask>*.py</mask>
   </component>
 </application>
