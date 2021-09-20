@@ -3,7 +3,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="16">
+        <list size="17">
           <item index="0" class="java.lang.String" itemvalue="tqdm" />
           <item index="1" class="java.lang.String" itemvalue="shap" />
           <item index="2" class="java.lang.String" itemvalue="scikit-learn" />
@@ -20,6 +20,7 @@
           <item index="13" class="java.lang.String" itemvalue="setuptools" />
           <item index="14" class="java.lang.String" itemvalue="pandas" />
           <item index="15" class="java.lang.String" itemvalue="symspellpy" />
+          <item index="16" class="java.lang.String" itemvalue="pyspark" />
         </list>
       </value>
     </option>
